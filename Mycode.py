@@ -9,8 +9,8 @@ df=pd.DataFrame(data)
 
 
 # Adding new row to df for v2
-# new_row_low={"Name":"jowlin","Age":20,"City":"Portgal"}
-# df.loc[len(df.index)]=new_row_low
+new_row_low={"Name":"jowlin","Age":20,"City":"Portgal"}
+df.loc[len(df.index)]=new_row_low
 
 # Adding new row to df for v3
 # new_row_low={"Name":"jack","Age":15,"City":"austrlia"}
