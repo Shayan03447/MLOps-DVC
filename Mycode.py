@@ -13,8 +13,8 @@ new_row_low={"Name":"jowlin","Age":20,"City":"Portgal"}
 df.loc[len(df.index)]=new_row_low
 
 # Adding new row to df for v3
-# new_row_low={"Name":"jack","Age":15,"City":"austrlia"}
-# df.loc[len(df.index)]=new_row_low
+new_row_low={"Name":"jack","Age":15,"City":"austrlia"}
+df.loc[len(df.index)]=new_row_low
 
 # Ensure the "data" directory exists at the root level
 data_dir="data"
