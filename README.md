@@ -8,6 +8,15 @@
 
 ---
 
+
+## 🎯 Why This Project?
+
+- 🔄 Keep **datasets in sync** with code commits  
+- 📂 Enable **data versioning** without bloating Git history  
+- ☁️ Store large files remotely (e.g., S3, GCS, Azure)  
+- 🤝 Collaborate seamlessly across teams  
+- 🧪 Ensure experiments are **fully reproducible**  
+
 ## 📂 Project Flow  
 
 ```mermaid
